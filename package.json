@@ -1,0 +1,16 @@
+{
+  "name": "discourse-embed",
+  "version": "1.0.0",
+  "description": "Utility to embed Discourse comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "discourse",
+    "embed",
+    "comments"
+  ],
+  "author": "Ashish Kankal",
+  "license": "ISC"
+}
